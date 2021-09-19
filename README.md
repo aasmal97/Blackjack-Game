@@ -9,4 +9,4 @@
   1. If human player draws a card and hasn't busted, computer(Dealer) draws cards until it has a greater number than the human player, or it reaches 21. 
   2. If human player exceeds 21, human player automatically loses
   3. At the end of every game, human player can always start a new one
-  4. Card values: A -> 1 or 11, K,Q,J -> 10, all other cards are equal to number on card. (Ex. Two = 2, Three = 3, etc.)
+  4. Card values: Ace = 1 or 11, King, Queen, Jack = 10, all other cards are equal to number on card. (Ex. Two = 2, Three = 3, etc.)
